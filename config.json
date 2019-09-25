@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_url": "mysql+pymysql://root:@localhost/python_database",
+    "prod_url": "mysql+pymysql://username:password@prodservername/python_database",
+    "fb_url": "https://facebook.com/python_database",
+    "tw_url": "https://twitter.com/python_database",
+    "gh_url": "https://github.com/python_database",
+    "blog_name": "Reliance Jio",
+    "tag_line": "Sabka sath sabska vikas",
+    "about_content": "Hello welcome to about section",
+    "gmail-user": "saksham.indurkhya94@gmail.com",
+    "gmail-pass": "Saksham@123",
+    "admin-user": "saksham",
+    "admin-pass": "Saksham@123",
+    "no-of-post": 2,
+    "login_image": "login.jpg",
+    "file_uploader": "G:\\Python_code\\Django_Practice"
+
+
+  }
+}
